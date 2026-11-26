@@ -1,0 +1,7 @@
+﻿atributo;categoria;inferior;superior
+permanencia;permanencia_faixa_1;-inf;3,0
+permanencia;permanencia_faixa_2;3,0;10,0
+permanencia;permanencia_faixa_3;10,0;inf
+valor;valor_faixa_1;-inf;57,0
+valor;valor_faixa_2;57,0;390,0
+valor;valor_faixa_3;390,0;inf

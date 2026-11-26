@@ -1,0 +1,3822 @@
+[
+  {
+    "arquivo": "RDAC2301.parquet",
+    "status": "ok",
+    "selecionadas": 12
+  },
+  {
+    "arquivo": "RDAL2301.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDAM2301.parquet",
+    "status": "ok",
+    "selecionadas": 14
+  },
+  {
+    "arquivo": "RDBA2301.parquet",
+    "status": "ok",
+    "selecionadas": 55
+  },
+  {
+    "arquivo": "RDGO2301.parquet",
+    "status": "ok",
+    "selecionadas": 111
+  },
+  {
+    "arquivo": "RDMA2301.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDMG2301.parquet",
+    "status": "ok",
+    "selecionadas": 282
+  },
+  {
+    "arquivo": "RDMS2301.parquet",
+    "status": "ok",
+    "selecionadas": 58
+  },
+  {
+    "arquivo": "RDPA2301.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDPB2301.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDPE2301.parquet",
+    "status": "ok",
+    "selecionadas": 39
+  },
+  {
+    "arquivo": "RDPI2301.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDPR2301.parquet",
+    "status": "ok",
+    "selecionadas": 253
+  },
+  {
+    "arquivo": "RDRJ2301.parquet",
+    "status": "ok",
+    "selecionadas": 109
+  },
+  {
+    "arquivo": "RDRN2301.parquet",
+    "status": "ok",
+    "selecionadas": 34
+  },
+  {
+    "arquivo": "RDRR2301.parquet",
+    "status": "ok",
+    "selecionadas": 3
+  },
+  {
+    "arquivo": "RDRS2301.parquet",
+    "status": "ok",
+    "selecionadas": 678
+  },
+  {
+    "arquivo": "RDSC2301.parquet",
+    "status": "ok",
+    "selecionadas": 356
+  },
+  {
+    "arquivo": "RDSE2301.parquet",
+    "status": "ok",
+    "selecionadas": 7
+  },
+  {
+    "arquivo": "RDSP2301.parquet",
+    "status": "ok",
+    "selecionadas": 700
+  },
+  {
+    "arquivo": "RDTO2301.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDAC2302.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDAL2302.parquet",
+    "status": "ok",
+    "selecionadas": 28
+  },
+  {
+    "arquivo": "RDAM2302.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDAP2302.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDDF2302.parquet",
+    "status": "ok",
+    "selecionadas": 96
+  },
+  {
+    "arquivo": "RDES2302.parquet",
+    "status": "ok",
+    "selecionadas": 60
+  },
+  {
+    "arquivo": "RDGO2302.parquet",
+    "status": "ok",
+    "selecionadas": 126
+  },
+  {
+    "arquivo": "RDMA2302.parquet",
+    "status": "ok",
+    "selecionadas": 43
+  },
+  {
+    "arquivo": "RDMG2302.parquet",
+    "status": "ok",
+    "selecionadas": 324
+  },
+  {
+    "arquivo": "RDMS2302.parquet",
+    "status": "ok",
+    "selecionadas": 55
+  },
+  {
+    "arquivo": "RDMT2302.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDPA2302.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDPE2302.parquet",
+    "status": "ok",
+    "selecionadas": 45
+  },
+  {
+    "arquivo": "RDPI2302.parquet",
+    "status": "ok",
+    "selecionadas": 16
+  },
+  {
+    "arquivo": "RDPR2302.parquet",
+    "status": "ok",
+    "selecionadas": 248
+  },
+  {
+    "arquivo": "RDRJ2302.parquet",
+    "status": "ok",
+    "selecionadas": 150
+  },
+  {
+    "arquivo": "RDRN2302.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDRO2302.parquet",
+    "status": "ok",
+    "selecionadas": 23
+  },
+  {
+    "arquivo": "RDRS2302.parquet",
+    "status": "ok",
+    "selecionadas": 705
+  },
+  {
+    "arquivo": "RDSC2302.parquet",
+    "status": "ok",
+    "selecionadas": 412
+  },
+  {
+    "arquivo": "RDSP2302.parquet",
+    "status": "ok",
+    "selecionadas": 729
+  },
+  {
+    "arquivo": "RDTO2302.parquet",
+    "status": "ok",
+    "selecionadas": 12
+  },
+  {
+    "arquivo": "RDAC2303.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDAL2303.parquet",
+    "status": "ok",
+    "selecionadas": 11
+  },
+  {
+    "arquivo": "RDAM2303.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDAP2303.parquet",
+    "status": "ok",
+    "selecionadas": 2
+  },
+  {
+    "arquivo": "RDBA2303.parquet",
+    "status": "ok",
+    "selecionadas": 74
+  },
+  {
+    "arquivo": "RDCE2303.parquet",
+    "status": "ok",
+    "selecionadas": 74
+  },
+  {
+    "arquivo": "RDDF2303.parquet",
+    "status": "ok",
+    "selecionadas": 110
+  },
+  {
+    "arquivo": "RDGO2303.parquet",
+    "status": "ok",
+    "selecionadas": 270
+  },
+  {
+    "arquivo": "RDMA2303.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDMS2303.parquet",
+    "status": "ok",
+    "selecionadas": 47
+  },
+  {
+    "arquivo": "RDPA2303.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDPB2303.parquet",
+    "status": "ok",
+    "selecionadas": 28
+  },
+  {
+    "arquivo": "RDPE2303.parquet",
+    "status": "ok",
+    "selecionadas": 47
+  },
+  {
+    "arquivo": "RDPI2303.parquet",
+    "status": "ok",
+    "selecionadas": 9
+  },
+  {
+    "arquivo": "RDPR2303.parquet",
+    "status": "ok",
+    "selecionadas": 236
+  },
+  {
+    "arquivo": "RDRJ2303.parquet",
+    "status": "ok",
+    "selecionadas": 119
+  },
+  {
+    "arquivo": "RDRN2303.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDRO2303.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDRR2303.parquet",
+    "status": "ok",
+    "selecionadas": 4
+  },
+  {
+    "arquivo": "RDRS2303.parquet",
+    "status": "ok",
+    "selecionadas": 798
+  },
+  {
+    "arquivo": "RDSC2303.parquet",
+    "status": "ok",
+    "selecionadas": 407
+  },
+  {
+    "arquivo": "RDSE2303.parquet",
+    "status": "ok",
+    "selecionadas": 6
+  },
+  {
+    "arquivo": "RDSP2303.parquet",
+    "status": "ok",
+    "selecionadas": 737
+  },
+  {
+    "arquivo": "RDTO2303.parquet",
+    "status": "ok",
+    "selecionadas": 7
+  },
+  {
+    "arquivo": "RDAC2304.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDAL2304.parquet",
+    "status": "ok",
+    "selecionadas": 28
+  },
+  {
+    "arquivo": "RDAM2304.parquet",
+    "status": "ok",
+    "selecionadas": 16
+  },
+  {
+    "arquivo": "RDAP2304.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2304.parquet",
+    "status": "ok",
+    "selecionadas": 64
+  },
+  {
+    "arquivo": "RDCE2304.parquet",
+    "status": "ok",
+    "selecionadas": 76
+  },
+  {
+    "arquivo": "RDDF2304.parquet",
+    "status": "ok",
+    "selecionadas": 82
+  },
+  {
+    "arquivo": "RDES2304.parquet",
+    "status": "ok",
+    "selecionadas": 52
+  },
+  {
+    "arquivo": "RDGO2304.parquet",
+    "status": "ok",
+    "selecionadas": 131
+  },
+  {
+    "arquivo": "RDMA2304.parquet",
+    "status": "ok",
+    "selecionadas": 47
+  },
+  {
+    "arquivo": "RDMG2304.parquet",
+    "status": "ok",
+    "selecionadas": 298
+  },
+  {
+    "arquivo": "RDMS2304.parquet",
+    "status": "ok",
+    "selecionadas": 76
+  },
+  {
+    "arquivo": "RDMT2304.parquet",
+    "status": "ok",
+    "selecionadas": 40
+  },
+  {
+    "arquivo": "RDPA2304.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDPB2304.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDPE2304.parquet",
+    "status": "ok",
+    "selecionadas": 59
+  },
+  {
+    "arquivo": "RDPR2304.parquet",
+    "status": "ok",
+    "selecionadas": 241
+  },
+  {
+    "arquivo": "RDRJ2304.parquet",
+    "status": "ok",
+    "selecionadas": 164
+  },
+  {
+    "arquivo": "RDRS2304.parquet",
+    "status": "ok",
+    "selecionadas": 783
+  },
+  {
+    "arquivo": "RDSC2304.parquet",
+    "status": "ok",
+    "selecionadas": 378
+  },
+  {
+    "arquivo": "RDAC2305.parquet",
+    "status": "ok",
+    "selecionadas": 26
+  },
+  {
+    "arquivo": "RDAP2305.parquet",
+    "status": "ok",
+    "selecionadas": 2
+  },
+  {
+    "arquivo": "RDBA2305.parquet",
+    "status": "ok",
+    "selecionadas": 80
+  },
+  {
+    "arquivo": "RDGO2305.parquet",
+    "status": "ok",
+    "selecionadas": 120
+  },
+  {
+    "arquivo": "RDMA2305.parquet",
+    "status": "ok",
+    "selecionadas": 41
+  },
+  {
+    "arquivo": "RDMG2305.parquet",
+    "status": "ok",
+    "selecionadas": 301
+  },
+  {
+    "arquivo": "RDMS2305.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDMT2305.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDPA2305.parquet",
+    "status": "ok",
+    "selecionadas": 22
+  },
+  {
+    "arquivo": "RDPB2305.parquet",
+    "status": "ok",
+    "selecionadas": 22
+  },
+  {
+    "arquivo": "RDPR2305.parquet",
+    "status": "ok",
+    "selecionadas": 226
+  },
+  {
+    "arquivo": "RDRJ2305.parquet",
+    "status": "ok",
+    "selecionadas": 139
+  },
+  {
+    "arquivo": "RDRS2305.parquet",
+    "status": "ok",
+    "selecionadas": 685
+  },
+  {
+    "arquivo": "RDSC2305.parquet",
+    "status": "ok",
+    "selecionadas": 441
+  },
+  {
+    "arquivo": "RDSE2305.parquet",
+    "status": "ok",
+    "selecionadas": 6
+  },
+  {
+    "arquivo": "RDSP2305.parquet",
+    "status": "ok",
+    "selecionadas": 750
+  },
+  {
+    "arquivo": "RDTO2305.parquet",
+    "status": "ok",
+    "selecionadas": 31
+  },
+  {
+    "arquivo": "RDAC2306.parquet",
+    "status": "ok",
+    "selecionadas": 14
+  },
+  {
+    "arquivo": "RDAM2306.parquet",
+    "status": "ok",
+    "selecionadas": 9
+  },
+  {
+    "arquivo": "RDAP2306.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDBA2306.parquet",
+    "status": "ok",
+    "selecionadas": 77
+  },
+  {
+    "arquivo": "RDCE2306.parquet",
+    "status": "ok",
+    "selecionadas": 94
+  },
+  {
+    "arquivo": "RDDF2306.parquet",
+    "status": "ok",
+    "selecionadas": 86
+  },
+  {
+    "arquivo": "RDES2306.parquet",
+    "status": "ok",
+    "selecionadas": 49
+  },
+  {
+    "arquivo": "RDGO2306.parquet",
+    "status": "ok",
+    "selecionadas": 72
+  },
+  {
+    "arquivo": "RDMA2306.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDMG2306.parquet",
+    "status": "ok",
+    "selecionadas": 276
+  },
+  {
+    "arquivo": "RDMS2306.parquet",
+    "status": "ok",
+    "selecionadas": 55
+  },
+  {
+    "arquivo": "RDMT2306.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDPA2306.parquet",
+    "status": "ok",
+    "selecionadas": 46
+  },
+  {
+    "arquivo": "RDPE2306.parquet",
+    "status": "ok",
+    "selecionadas": 60
+  },
+  {
+    "arquivo": "RDPI2306.parquet",
+    "status": "ok",
+    "selecionadas": 10
+  },
+  {
+    "arquivo": "RDPR2306.parquet",
+    "status": "ok",
+    "selecionadas": 277
+  },
+  {
+    "arquivo": "RDRN2306.parquet",
+    "status": "ok",
+    "selecionadas": 40
+  },
+  {
+    "arquivo": "RDRO2306.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDRR2306.parquet",
+    "status": "ok",
+    "selecionadas": 4
+  },
+  {
+    "arquivo": "RDRS2306.parquet",
+    "status": "ok",
+    "selecionadas": 684
+  },
+  {
+    "arquivo": "RDSC2306.parquet",
+    "status": "ok",
+    "selecionadas": 397
+  },
+  {
+    "arquivo": "RDSE2306.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDSP2306.parquet",
+    "status": "ok",
+    "selecionadas": 702
+  },
+  {
+    "arquivo": "RDTO2306.parquet",
+    "status": "ok",
+    "selecionadas": 14
+  },
+  {
+    "arquivo": "RDAC2307.parquet",
+    "status": "ok",
+    "selecionadas": 28
+  },
+  {
+    "arquivo": "RDAL2307.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDAM2307.parquet",
+    "status": "ok",
+    "selecionadas": 9
+  },
+  {
+    "arquivo": "RDCE2307.parquet",
+    "status": "ok",
+    "selecionadas": 76
+  },
+  {
+    "arquivo": "RDDF2307.parquet",
+    "status": "ok",
+    "selecionadas": 79
+  },
+  {
+    "arquivo": "RDGO2307.parquet",
+    "status": "ok",
+    "selecionadas": 144
+  },
+  {
+    "arquivo": "RDMA2307.parquet",
+    "status": "ok",
+    "selecionadas": 43
+  },
+  {
+    "arquivo": "RDMG2307.parquet",
+    "status": "ok",
+    "selecionadas": 258
+  },
+  {
+    "arquivo": "RDMT2307.parquet",
+    "status": "ok",
+    "selecionadas": 22
+  },
+  {
+    "arquivo": "RDPA2307.parquet",
+    "status": "ok",
+    "selecionadas": 41
+  },
+  {
+    "arquivo": "RDPB2307.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDPE2307.parquet",
+    "status": "ok",
+    "selecionadas": 59
+  },
+  {
+    "arquivo": "RDRJ2307.parquet",
+    "status": "ok",
+    "selecionadas": 112
+  },
+  {
+    "arquivo": "RDRO2307.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDRS2307.parquet",
+    "status": "ok",
+    "selecionadas": 783
+  },
+  {
+    "arquivo": "RDSC2307.parquet",
+    "status": "ok",
+    "selecionadas": 364
+  },
+  {
+    "arquivo": "RDSE2307.parquet",
+    "status": "ok",
+    "selecionadas": 9
+  },
+  {
+    "arquivo": "RDSP2307.parquet",
+    "status": "ok",
+    "selecionadas": 680
+  },
+  {
+    "arquivo": "RDTO2307.parquet",
+    "status": "ok",
+    "selecionadas": 12
+  },
+  {
+    "arquivo": "RDAC2308.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDAM2308.parquet",
+    "status": "ok",
+    "selecionadas": 14
+  },
+  {
+    "arquivo": "RDBA2308.parquet",
+    "status": "ok",
+    "selecionadas": 65
+  },
+  {
+    "arquivo": "RDCE2308.parquet",
+    "status": "ok",
+    "selecionadas": 81
+  },
+  {
+    "arquivo": "RDDF2308.parquet",
+    "status": "ok",
+    "selecionadas": 95
+  },
+  {
+    "arquivo": "RDES2308.parquet",
+    "status": "ok",
+    "selecionadas": 44
+  },
+  {
+    "arquivo": "RDGO2308.parquet",
+    "status": "ok",
+    "selecionadas": 104
+  },
+  {
+    "arquivo": "RDMA2308.parquet",
+    "status": "ok",
+    "selecionadas": 45
+  },
+  {
+    "arquivo": "RDMG2308.parquet",
+    "status": "ok",
+    "selecionadas": 352
+  },
+  {
+    "arquivo": "RDMS2308.parquet",
+    "status": "ok",
+    "selecionadas": 67
+  },
+  {
+    "arquivo": "RDMT2308.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDPA2308.parquet",
+    "status": "ok",
+    "selecionadas": 34
+  },
+  {
+    "arquivo": "RDPB2308.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDPE2308.parquet",
+    "status": "ok",
+    "selecionadas": 64
+  },
+  {
+    "arquivo": "RDPR2308.parquet",
+    "status": "ok",
+    "selecionadas": 232
+  },
+  {
+    "arquivo": "RDRN2308.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDRO2308.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDRR2308.parquet",
+    "status": "ok",
+    "selecionadas": 2
+  },
+  {
+    "arquivo": "RDRS2308.parquet",
+    "status": "ok",
+    "selecionadas": 805
+  },
+  {
+    "arquivo": "RDSC2308.parquet",
+    "status": "ok",
+    "selecionadas": 446
+  },
+  {
+    "arquivo": "RDSE2308.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDSP2308.parquet",
+    "status": "ok",
+    "selecionadas": 757
+  },
+  {
+    "arquivo": "RDAC2309.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDAM2309.parquet",
+    "status": "ok",
+    "selecionadas": 6
+  },
+  {
+    "arquivo": "RDAP2309.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDBA2309.parquet",
+    "status": "ok",
+    "selecionadas": 69
+  },
+  {
+    "arquivo": "RDCE2309.parquet",
+    "status": "ok",
+    "selecionadas": 90
+  },
+  {
+    "arquivo": "RDDF2309.parquet",
+    "status": "ok",
+    "selecionadas": 89
+  },
+  {
+    "arquivo": "RDGO2309.parquet",
+    "status": "ok",
+    "selecionadas": 115
+  },
+  {
+    "arquivo": "RDMA2309.parquet",
+    "status": "ok",
+    "selecionadas": 44
+  },
+  {
+    "arquivo": "RDMG2309.parquet",
+    "status": "ok",
+    "selecionadas": 373
+  },
+  {
+    "arquivo": "RDMS2309.parquet",
+    "status": "ok",
+    "selecionadas": 56
+  },
+  {
+    "arquivo": "RDMT2309.parquet",
+    "status": "ok",
+    "selecionadas": 48
+  },
+  {
+    "arquivo": "RDPA2309.parquet",
+    "status": "ok",
+    "selecionadas": 56
+  },
+  {
+    "arquivo": "RDPB2309.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDPE2309.parquet",
+    "status": "ok",
+    "selecionadas": 68
+  },
+  {
+    "arquivo": "RDPI2309.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDPR2309.parquet",
+    "status": "ok",
+    "selecionadas": 209
+  },
+  {
+    "arquivo": "RDRJ2309.parquet",
+    "status": "ok",
+    "selecionadas": 138
+  },
+  {
+    "arquivo": "RDRR2309.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDRS2309.parquet",
+    "status": "ok",
+    "selecionadas": 793
+  },
+  {
+    "arquivo": "RDSC2309.parquet",
+    "status": "ok",
+    "selecionadas": 417
+  },
+  {
+    "arquivo": "RDSP2309.parquet",
+    "status": "ok",
+    "selecionadas": 728
+  },
+  {
+    "arquivo": "RDAC2310.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDAL2310.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDAM2310.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDAP2310.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDBA2310.parquet",
+    "status": "ok",
+    "selecionadas": 74
+  },
+  {
+    "arquivo": "RDCE2310.parquet",
+    "status": "ok",
+    "selecionadas": 87
+  },
+  {
+    "arquivo": "RDDF2310.parquet",
+    "status": "ok",
+    "selecionadas": 123
+  },
+  {
+    "arquivo": "RDES2310.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDGO2310.parquet",
+    "status": "ok",
+    "selecionadas": 148
+  },
+  {
+    "arquivo": "RDMA2310.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDMT2310.parquet",
+    "status": "ok",
+    "selecionadas": 44
+  },
+  {
+    "arquivo": "RDPA2310.parquet",
+    "status": "ok",
+    "selecionadas": 52
+  },
+  {
+    "arquivo": "RDPB2310.parquet",
+    "status": "ok",
+    "selecionadas": 49
+  },
+  {
+    "arquivo": "RDPE2310.parquet",
+    "status": "ok",
+    "selecionadas": 81
+  },
+  {
+    "arquivo": "RDPR2310.parquet",
+    "status": "ok",
+    "selecionadas": 244
+  },
+  {
+    "arquivo": "RDRJ2310.parquet",
+    "status": "ok",
+    "selecionadas": 168
+  },
+  {
+    "arquivo": "RDRN2310.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDRO2310.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDRS2310.parquet",
+    "status": "ok",
+    "selecionadas": 793
+  },
+  {
+    "arquivo": "RDSC2310.parquet",
+    "status": "ok",
+    "selecionadas": 383
+  },
+  {
+    "arquivo": "RDSP2310.parquet",
+    "status": "ok",
+    "selecionadas": 805
+  },
+  {
+    "arquivo": "RDTO2310.parquet",
+    "status": "ok",
+    "selecionadas": 21
+  },
+  {
+    "arquivo": "RDAC2311.parquet",
+    "status": "ok",
+    "selecionadas": 26
+  },
+  {
+    "arquivo": "RDAP2311.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2311.parquet",
+    "status": "ok",
+    "selecionadas": 86
+  },
+  {
+    "arquivo": "RDCE2311.parquet",
+    "status": "ok",
+    "selecionadas": 93
+  },
+  {
+    "arquivo": "RDGO2311.parquet",
+    "status": "ok",
+    "selecionadas": 127
+  },
+  {
+    "arquivo": "RDMA2311.parquet",
+    "status": "ok",
+    "selecionadas": 40
+  },
+  {
+    "arquivo": "RDMG2311.parquet",
+    "status": "ok",
+    "selecionadas": 425
+  },
+  {
+    "arquivo": "RDMS2311.parquet",
+    "status": "ok",
+    "selecionadas": 57
+  },
+  {
+    "arquivo": "RDMT2311.parquet",
+    "status": "ok",
+    "selecionadas": 50
+  },
+  {
+    "arquivo": "RDPA2311.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDPI2311.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDPR2311.parquet",
+    "status": "ok",
+    "selecionadas": 250
+  },
+  {
+    "arquivo": "RDRJ2311.parquet",
+    "status": "ok",
+    "selecionadas": 153
+  },
+  {
+    "arquivo": "RDRN2311.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDRO2311.parquet",
+    "status": "ok",
+    "selecionadas": 34
+  },
+  {
+    "arquivo": "RDRS2311.parquet",
+    "status": "ok",
+    "selecionadas": 849
+  },
+  {
+    "arquivo": "RDSC2311.parquet",
+    "status": "ok",
+    "selecionadas": 472
+  },
+  {
+    "arquivo": "RDSE2311.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDSP2311.parquet",
+    "status": "ok",
+    "selecionadas": 855
+  },
+  {
+    "arquivo": "RDTO2311.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDAC2312.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDAM2312.parquet",
+    "status": "ok",
+    "selecionadas": 6
+  },
+  {
+    "arquivo": "RDBA2312.parquet",
+    "status": "ok",
+    "selecionadas": 66
+  },
+  {
+    "arquivo": "RDCE2312.parquet",
+    "status": "ok",
+    "selecionadas": 69
+  },
+  {
+    "arquivo": "RDDF2312.parquet",
+    "status": "ok",
+    "selecionadas": 98
+  },
+  {
+    "arquivo": "RDGO2312.parquet",
+    "status": "ok",
+    "selecionadas": 132
+  },
+  {
+    "arquivo": "RDMA2312.parquet",
+    "status": "ok",
+    "selecionadas": 44
+  },
+  {
+    "arquivo": "RDPA2312.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDPB2312.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDPE2312.parquet",
+    "status": "ok",
+    "selecionadas": 65
+  },
+  {
+    "arquivo": "RDPI2312.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDPR2312.parquet",
+    "status": "ok",
+    "selecionadas": 242
+  },
+  {
+    "arquivo": "RDRJ2312.parquet",
+    "status": "ok",
+    "selecionadas": 173
+  },
+  {
+    "arquivo": "RDRR2312.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDRS2312.parquet",
+    "status": "ok",
+    "selecionadas": 818
+  },
+  {
+    "arquivo": "RDSC2312.parquet",
+    "status": "ok",
+    "selecionadas": 429
+  },
+  {
+    "arquivo": "RDSP2312.parquet",
+    "status": "ok",
+    "selecionadas": 804
+  },
+  {
+    "arquivo": "RDTO2312.parquet",
+    "status": "ok",
+    "selecionadas": 23
+  },
+  {
+    "arquivo": "RDAC2401.parquet",
+    "status": "ok",
+    "selecionadas": 24
+  },
+  {
+    "arquivo": "RDAL2401.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDAM2401.parquet",
+    "status": "ok",
+    "selecionadas": 7
+  },
+  {
+    "arquivo": "RDAP2401.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDBA2401.parquet",
+    "status": "ok",
+    "selecionadas": 55
+  },
+  {
+    "arquivo": "RDCE2401.parquet",
+    "status": "ok",
+    "selecionadas": 90
+  },
+  {
+    "arquivo": "RDDF2401.parquet",
+    "status": "ok",
+    "selecionadas": 85
+  },
+  {
+    "arquivo": "RDGO2401.parquet",
+    "status": "ok",
+    "selecionadas": 133
+  },
+  {
+    "arquivo": "RDMA2401.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDMG2401.parquet",
+    "status": "ok",
+    "selecionadas": 409
+  },
+  {
+    "arquivo": "RDMS2401.parquet",
+    "status": "ok",
+    "selecionadas": 76
+  },
+  {
+    "arquivo": "RDMT2401.parquet",
+    "status": "ok",
+    "selecionadas": 34
+  },
+  {
+    "arquivo": "RDPA2401.parquet",
+    "status": "ok",
+    "selecionadas": 28
+  },
+  {
+    "arquivo": "RDPB2401.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDPE2401.parquet",
+    "status": "ok",
+    "selecionadas": 57
+  },
+  {
+    "arquivo": "RDPI2401.parquet",
+    "status": "ok",
+    "selecionadas": 9
+  },
+  {
+    "arquivo": "RDPR2401.parquet",
+    "status": "ok",
+    "selecionadas": 303
+  },
+  {
+    "arquivo": "RDRJ2401.parquet",
+    "status": "ok",
+    "selecionadas": 123
+  },
+  {
+    "arquivo": "RDRN2401.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDRO2401.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDRR2401.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDRS2401.parquet",
+    "status": "ok",
+    "selecionadas": 726
+  },
+  {
+    "arquivo": "RDSC2401.parquet",
+    "status": "ok",
+    "selecionadas": 521
+  },
+  {
+    "arquivo": "RDSP2401.parquet",
+    "status": "ok",
+    "selecionadas": 756
+  },
+  {
+    "arquivo": "RDTO2401.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDAC2402.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDAL2402.parquet",
+    "status": "ok",
+    "selecionadas": 34
+  },
+  {
+    "arquivo": "RDAM2402.parquet",
+    "status": "ok",
+    "selecionadas": 10
+  },
+  {
+    "arquivo": "RDAP2402.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2402.parquet",
+    "status": "ok",
+    "selecionadas": 51
+  },
+  {
+    "arquivo": "RDCE2402.parquet",
+    "status": "ok",
+    "selecionadas": 76
+  },
+  {
+    "arquivo": "RDDF2402.parquet",
+    "status": "ok",
+    "selecionadas": 78
+  },
+  {
+    "arquivo": "RDGO2402.parquet",
+    "status": "ok",
+    "selecionadas": 105
+  },
+  {
+    "arquivo": "RDMA2402.parquet",
+    "status": "ok",
+    "selecionadas": 39
+  },
+  {
+    "arquivo": "RDMG2402.parquet",
+    "status": "ok",
+    "selecionadas": 386
+  },
+  {
+    "arquivo": "RDMT2402.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDPA2402.parquet",
+    "status": "ok",
+    "selecionadas": 34
+  },
+  {
+    "arquivo": "RDPE2402.parquet",
+    "status": "ok",
+    "selecionadas": 73
+  },
+  {
+    "arquivo": "RDPI2402.parquet",
+    "status": "ok",
+    "selecionadas": 9
+  },
+  {
+    "arquivo": "RDPR2402.parquet",
+    "status": "ok",
+    "selecionadas": 322
+  },
+  {
+    "arquivo": "RDRJ2402.parquet",
+    "status": "ok",
+    "selecionadas": 179
+  },
+  {
+    "arquivo": "RDRN2402.parquet",
+    "status": "ok",
+    "selecionadas": 44
+  },
+  {
+    "arquivo": "RDRS2402.parquet",
+    "status": "ok",
+    "selecionadas": 830
+  },
+  {
+    "arquivo": "RDSC2402.parquet",
+    "status": "ok",
+    "selecionadas": 440
+  },
+  {
+    "arquivo": "RDSE2402.parquet",
+    "status": "ok",
+    "selecionadas": 12
+  },
+  {
+    "arquivo": "RDTO2402.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDAC2403.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDAL2403.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDAM2403.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDAP2403.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2403.parquet",
+    "status": "ok",
+    "selecionadas": 60
+  },
+  {
+    "arquivo": "RDCE2403.parquet",
+    "status": "ok",
+    "selecionadas": 87
+  },
+  {
+    "arquivo": "RDDF2403.parquet",
+    "status": "ok",
+    "selecionadas": 69
+  },
+  {
+    "arquivo": "RDGO2403.parquet",
+    "status": "ok",
+    "selecionadas": 104
+  },
+  {
+    "arquivo": "RDMA2403.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDMG2403.parquet",
+    "status": "ok",
+    "selecionadas": 437
+  },
+  {
+    "arquivo": "RDMS2403.parquet",
+    "status": "ok",
+    "selecionadas": 65
+  },
+  {
+    "arquivo": "RDMT2403.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDPA2403.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDPE2403.parquet",
+    "status": "ok",
+    "selecionadas": 65
+  },
+  {
+    "arquivo": "RDPR2403.parquet",
+    "status": "ok",
+    "selecionadas": 254
+  },
+  {
+    "arquivo": "RDRJ2403.parquet",
+    "status": "ok",
+    "selecionadas": 171
+  },
+  {
+    "arquivo": "RDRN2403.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDRO2403.parquet",
+    "status": "ok",
+    "selecionadas": 19
+  },
+  {
+    "arquivo": "RDRR2403.parquet",
+    "status": "ok",
+    "selecionadas": 2
+  },
+  {
+    "arquivo": "RDRS2403.parquet",
+    "status": "ok",
+    "selecionadas": 824
+  },
+  {
+    "arquivo": "RDSE2403.parquet",
+    "status": "ok",
+    "selecionadas": 19
+  },
+  {
+    "arquivo": "RDSP2403.parquet",
+    "status": "ok",
+    "selecionadas": 813
+  },
+  {
+    "arquivo": "RDTO2403.parquet",
+    "status": "ok",
+    "selecionadas": 14
+  },
+  {
+    "arquivo": "RDAM2404.parquet",
+    "status": "ok",
+    "selecionadas": 12
+  },
+  {
+    "arquivo": "RDBA2404.parquet",
+    "status": "ok",
+    "selecionadas": 71
+  },
+  {
+    "arquivo": "RDCE2404.parquet",
+    "status": "ok",
+    "selecionadas": 95
+  },
+  {
+    "arquivo": "RDDF2404.parquet",
+    "status": "ok",
+    "selecionadas": 84
+  },
+  {
+    "arquivo": "RDES2404.parquet",
+    "status": "ok",
+    "selecionadas": 70
+  },
+  {
+    "arquivo": "RDGO2404.parquet",
+    "status": "ok",
+    "selecionadas": 104
+  },
+  {
+    "arquivo": "RDMG2404.parquet",
+    "status": "ok",
+    "selecionadas": 449
+  },
+  {
+    "arquivo": "RDMS2404.parquet",
+    "status": "ok",
+    "selecionadas": 47
+  },
+  {
+    "arquivo": "RDMT2404.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDPA2404.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDPB2404.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDPE2404.parquet",
+    "status": "ok",
+    "selecionadas": 74
+  },
+  {
+    "arquivo": "RDPI2404.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDPR2404.parquet",
+    "status": "ok",
+    "selecionadas": 293
+  },
+  {
+    "arquivo": "RDRJ2404.parquet",
+    "status": "ok",
+    "selecionadas": 120
+  },
+  {
+    "arquivo": "RDRN2404.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDRO2404.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDRR2404.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDSC2404.parquet",
+    "status": "ok",
+    "selecionadas": 437
+  },
+  {
+    "arquivo": "RDSP2404.parquet",
+    "status": "ok",
+    "selecionadas": 794
+  },
+  {
+    "arquivo": "RDTO2404.parquet",
+    "status": "ok",
+    "selecionadas": 23
+  },
+  {
+    "arquivo": "RDAC2405.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDAL2405.parquet",
+    "status": "ok",
+    "selecionadas": 19
+  },
+  {
+    "arquivo": "RDBA2405.parquet",
+    "status": "ok",
+    "selecionadas": 70
+  },
+  {
+    "arquivo": "RDDF2405.parquet",
+    "status": "ok",
+    "selecionadas": 92
+  },
+  {
+    "arquivo": "RDES2405.parquet",
+    "status": "ok",
+    "selecionadas": 43
+  },
+  {
+    "arquivo": "RDGO2405.parquet",
+    "status": "ok",
+    "selecionadas": 109
+  },
+  {
+    "arquivo": "RDMA2405.parquet",
+    "status": "ok",
+    "selecionadas": 49
+  },
+  {
+    "arquivo": "RDMG2405.parquet",
+    "status": "ok",
+    "selecionadas": 387
+  },
+  {
+    "arquivo": "RDMS2405.parquet",
+    "status": "ok",
+    "selecionadas": 57
+  },
+  {
+    "arquivo": "RDMT2405.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDPA2405.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDPB2405.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDPE2405.parquet",
+    "status": "ok",
+    "selecionadas": 79
+  },
+  {
+    "arquivo": "RDPI2405.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDPR2405.parquet",
+    "status": "ok",
+    "selecionadas": 234
+  },
+  {
+    "arquivo": "RDRJ2405.parquet",
+    "status": "ok",
+    "selecionadas": 158
+  },
+  {
+    "arquivo": "RDRN2405.parquet",
+    "status": "ok",
+    "selecionadas": 24
+  },
+  {
+    "arquivo": "RDRO2405.parquet",
+    "status": "ok",
+    "selecionadas": 47
+  },
+  {
+    "arquivo": "RDRS2405.parquet",
+    "status": "ok",
+    "selecionadas": 735
+  },
+  {
+    "arquivo": "RDSC2405.parquet",
+    "status": "ok",
+    "selecionadas": 447
+  },
+  {
+    "arquivo": "RDSE2405.parquet",
+    "status": "ok",
+    "selecionadas": 12
+  },
+  {
+    "arquivo": "RDSP2405.parquet",
+    "status": "ok",
+    "selecionadas": 736
+  },
+  {
+    "arquivo": "RDAL2406.parquet",
+    "status": "ok",
+    "selecionadas": 23
+  },
+  {
+    "arquivo": "RDAP2406.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDCE2406.parquet",
+    "status": "ok",
+    "selecionadas": 114
+  },
+  {
+    "arquivo": "RDDF2406.parquet",
+    "status": "ok",
+    "selecionadas": 84
+  },
+  {
+    "arquivo": "RDES2406.parquet",
+    "status": "ok",
+    "selecionadas": 58
+  },
+  {
+    "arquivo": "RDGO2406.parquet",
+    "status": "ok",
+    "selecionadas": 89
+  },
+  {
+    "arquivo": "RDMA2406.parquet",
+    "status": "ok",
+    "selecionadas": 46
+  },
+  {
+    "arquivo": "RDMS2406.parquet",
+    "status": "ok",
+    "selecionadas": 58
+  },
+  {
+    "arquivo": "RDMT2406.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDPA2406.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDPB2406.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDPE2406.parquet",
+    "status": "ok",
+    "selecionadas": 61
+  },
+  {
+    "arquivo": "RDPR2406.parquet",
+    "status": "ok",
+    "selecionadas": 244
+  },
+  {
+    "arquivo": "RDRJ2406.parquet",
+    "status": "ok",
+    "selecionadas": 144
+  },
+  {
+    "arquivo": "RDRN2406.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDRO2406.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDSE2406.parquet",
+    "status": "ok",
+    "selecionadas": 10
+  },
+  {
+    "arquivo": "RDAC2407.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDAL2407.parquet",
+    "status": "ok",
+    "selecionadas": 24
+  },
+  {
+    "arquivo": "RDAP2407.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDBA2407.parquet",
+    "status": "ok",
+    "selecionadas": 84
+  },
+  {
+    "arquivo": "RDDF2407.parquet",
+    "status": "ok",
+    "selecionadas": 104
+  },
+  {
+    "arquivo": "RDGO2407.parquet",
+    "status": "ok",
+    "selecionadas": 105
+  },
+  {
+    "arquivo": "RDMA2407.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDMG2407.parquet",
+    "status": "ok",
+    "selecionadas": 377
+  },
+  {
+    "arquivo": "RDMS2407.parquet",
+    "status": "ok",
+    "selecionadas": 58
+  },
+  {
+    "arquivo": "RDPA2407.parquet",
+    "status": "ok",
+    "selecionadas": 22
+  },
+  {
+    "arquivo": "RDPB2407.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDPE2407.parquet",
+    "status": "ok",
+    "selecionadas": 81
+  },
+  {
+    "arquivo": "RDPR2407.parquet",
+    "status": "ok",
+    "selecionadas": 213
+  },
+  {
+    "arquivo": "RDRN2407.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDRR2407.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDRS2407.parquet",
+    "status": "ok",
+    "selecionadas": 742
+  },
+  {
+    "arquivo": "RDSC2407.parquet",
+    "status": "ok",
+    "selecionadas": 425
+  },
+  {
+    "arquivo": "RDSE2407.parquet",
+    "status": "ok",
+    "selecionadas": 3
+  },
+  {
+    "arquivo": "RDSP2407.parquet",
+    "status": "ok",
+    "selecionadas": 750
+  },
+  {
+    "arquivo": "RDTO2407.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDAC2408.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDAM2408.parquet",
+    "status": "ok",
+    "selecionadas": 21
+  },
+  {
+    "arquivo": "RDAP2408.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2408.parquet",
+    "status": "ok",
+    "selecionadas": 60
+  },
+  {
+    "arquivo": "RDCE2408.parquet",
+    "status": "ok",
+    "selecionadas": 101
+  },
+  {
+    "arquivo": "RDDF2408.parquet",
+    "status": "ok",
+    "selecionadas": 104
+  },
+  {
+    "arquivo": "RDES2408.parquet",
+    "status": "ok",
+    "selecionadas": 60
+  },
+  {
+    "arquivo": "RDGO2408.parquet",
+    "status": "ok",
+    "selecionadas": 100
+  },
+  {
+    "arquivo": "RDMA2408.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDMG2408.parquet",
+    "status": "ok",
+    "selecionadas": 453
+  },
+  {
+    "arquivo": "RDMS2408.parquet",
+    "status": "ok",
+    "selecionadas": 66
+  },
+  {
+    "arquivo": "RDMT2408.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDPA2408.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDRJ2408.parquet",
+    "status": "ok",
+    "selecionadas": 152
+  },
+  {
+    "arquivo": "RDRN2408.parquet",
+    "status": "ok",
+    "selecionadas": 23
+  },
+  {
+    "arquivo": "RDRS2408.parquet",
+    "status": "ok",
+    "selecionadas": 748
+  },
+  {
+    "arquivo": "RDSC2408.parquet",
+    "status": "ok",
+    "selecionadas": 510
+  },
+  {
+    "arquivo": "RDSE2408.parquet",
+    "status": "ok",
+    "selecionadas": 5
+  },
+  {
+    "arquivo": "RDTO2408.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDAC2409.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDAM2409.parquet",
+    "status": "ok",
+    "selecionadas": 16
+  },
+  {
+    "arquivo": "RDAP2409.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2409.parquet",
+    "status": "ok",
+    "selecionadas": 75
+  },
+  {
+    "arquivo": "RDCE2409.parquet",
+    "status": "ok",
+    "selecionadas": 112
+  },
+  {
+    "arquivo": "RDDF2409.parquet",
+    "status": "ok",
+    "selecionadas": 107
+  },
+  {
+    "arquivo": "RDES2409.parquet",
+    "status": "ok",
+    "selecionadas": 55
+  },
+  {
+    "arquivo": "RDGO2409.parquet",
+    "status": "ok",
+    "selecionadas": 112
+  },
+  {
+    "arquivo": "RDMA2409.parquet",
+    "status": "ok",
+    "selecionadas": 44
+  },
+  {
+    "arquivo": "RDMS2409.parquet",
+    "status": "ok",
+    "selecionadas": 55
+  },
+  {
+    "arquivo": "RDMT2409.parquet",
+    "status": "ok",
+    "selecionadas": 31
+  },
+  {
+    "arquivo": "RDPR2409.parquet",
+    "status": "ok",
+    "selecionadas": 264
+  },
+  {
+    "arquivo": "RDRJ2409.parquet",
+    "status": "ok",
+    "selecionadas": 159
+  },
+  {
+    "arquivo": "RDRN2409.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDRS2409.parquet",
+    "status": "ok",
+    "selecionadas": 780
+  },
+  {
+    "arquivo": "RDSE2409.parquet",
+    "status": "ok",
+    "selecionadas": 4
+  },
+  {
+    "arquivo": "RDSP2409.parquet",
+    "status": "ok",
+    "selecionadas": 749
+  },
+  {
+    "arquivo": "RDTO2409.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDAC2410.parquet",
+    "status": "ok",
+    "selecionadas": 47
+  },
+  {
+    "arquivo": "RDAL2410.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDAP2410.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2410.parquet",
+    "status": "ok",
+    "selecionadas": 93
+  },
+  {
+    "arquivo": "RDCE2410.parquet",
+    "status": "ok",
+    "selecionadas": 127
+  },
+  {
+    "arquivo": "RDDF2410.parquet",
+    "status": "ok",
+    "selecionadas": 118
+  },
+  {
+    "arquivo": "RDES2410.parquet",
+    "status": "ok",
+    "selecionadas": 51
+  },
+  {
+    "arquivo": "RDGO2410.parquet",
+    "status": "ok",
+    "selecionadas": 144
+  },
+  {
+    "arquivo": "RDMA2410.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDMG2410.parquet",
+    "status": "ok",
+    "selecionadas": 461
+  },
+  {
+    "arquivo": "RDMS2410.parquet",
+    "status": "ok",
+    "selecionadas": 63
+  },
+  {
+    "arquivo": "RDMT2410.parquet",
+    "status": "ok",
+    "selecionadas": 24
+  },
+  {
+    "arquivo": "RDPA2410.parquet",
+    "status": "ok",
+    "selecionadas": 41
+  },
+  {
+    "arquivo": "RDPB2410.parquet",
+    "status": "ok",
+    "selecionadas": 34
+  },
+  {
+    "arquivo": "RDPE2410.parquet",
+    "status": "ok",
+    "selecionadas": 72
+  },
+  {
+    "arquivo": "RDPI2410.parquet",
+    "status": "ok",
+    "selecionadas": 10
+  },
+  {
+    "arquivo": "RDPR2410.parquet",
+    "status": "ok",
+    "selecionadas": 287
+  },
+  {
+    "arquivo": "RDRJ2410.parquet",
+    "status": "ok",
+    "selecionadas": 170
+  },
+  {
+    "arquivo": "RDRN2410.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDRR2410.parquet",
+    "status": "ok",
+    "selecionadas": 2
+  },
+  {
+    "arquivo": "RDRS2410.parquet",
+    "status": "ok",
+    "selecionadas": 907
+  },
+  {
+    "arquivo": "RDSC2410.parquet",
+    "status": "ok",
+    "selecionadas": 536
+  },
+  {
+    "arquivo": "RDSP2410.parquet",
+    "status": "ok",
+    "selecionadas": 904
+  },
+  {
+    "arquivo": "RDTO2410.parquet",
+    "status": "ok",
+    "selecionadas": 24
+  },
+  {
+    "arquivo": "RDAC2411.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDAL2411.parquet",
+    "status": "ok",
+    "selecionadas": 21
+  },
+  {
+    "arquivo": "RDBA2411.parquet",
+    "status": "ok",
+    "selecionadas": 102
+  },
+  {
+    "arquivo": "RDCE2411.parquet",
+    "status": "ok",
+    "selecionadas": 112
+  },
+  {
+    "arquivo": "RDDF2411.parquet",
+    "status": "ok",
+    "selecionadas": 117
+  },
+  {
+    "arquivo": "RDGO2411.parquet",
+    "status": "ok",
+    "selecionadas": 126
+  },
+  {
+    "arquivo": "RDMA2411.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDMG2411.parquet",
+    "status": "ok",
+    "selecionadas": 444
+  },
+  {
+    "arquivo": "RDMT2411.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDPA2411.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDPB2411.parquet",
+    "status": "ok",
+    "selecionadas": 43
+  },
+  {
+    "arquivo": "RDPE2411.parquet",
+    "status": "ok",
+    "selecionadas": 75
+  },
+  {
+    "arquivo": "RDPR2411.parquet",
+    "status": "ok",
+    "selecionadas": 248
+  },
+  {
+    "arquivo": "RDRJ2411.parquet",
+    "status": "ok",
+    "selecionadas": 151
+  },
+  {
+    "arquivo": "RDRN2411.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDRR2411.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDRS2411.parquet",
+    "status": "ok",
+    "selecionadas": 865
+  },
+  {
+    "arquivo": "RDSE2411.parquet",
+    "status": "ok",
+    "selecionadas": 7
+  },
+  {
+    "arquivo": "RDSP2411.parquet",
+    "status": "ok",
+    "selecionadas": 793
+  },
+  {
+    "arquivo": "RDTO2411.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDAC2412.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDAM2412.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDAP2412.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2412.parquet",
+    "status": "ok",
+    "selecionadas": 65
+  },
+  {
+    "arquivo": "RDCE2412.parquet",
+    "status": "ok",
+    "selecionadas": 121
+  },
+  {
+    "arquivo": "RDDF2412.parquet",
+    "status": "ok",
+    "selecionadas": 94
+  },
+  {
+    "arquivo": "RDES2412.parquet",
+    "status": "ok",
+    "selecionadas": 65
+  },
+  {
+    "arquivo": "RDGO2412.parquet",
+    "status": "ok",
+    "selecionadas": 138
+  },
+  {
+    "arquivo": "RDMA2412.parquet",
+    "status": "ok",
+    "selecionadas": 48
+  },
+  {
+    "arquivo": "RDMT2412.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDPA2412.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDPB2412.parquet",
+    "status": "ok",
+    "selecionadas": 57
+  },
+  {
+    "arquivo": "RDPE2412.parquet",
+    "status": "ok",
+    "selecionadas": 103
+  },
+  {
+    "arquivo": "RDPI2412.parquet",
+    "status": "ok",
+    "selecionadas": 12
+  },
+  {
+    "arquivo": "RDPR2412.parquet",
+    "status": "ok",
+    "selecionadas": 218
+  },
+  {
+    "arquivo": "RDRJ2412.parquet",
+    "status": "ok",
+    "selecionadas": 129
+  },
+  {
+    "arquivo": "RDRN2412.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDRO2412.parquet",
+    "status": "ok",
+    "selecionadas": 23
+  },
+  {
+    "arquivo": "RDRS2412.parquet",
+    "status": "ok",
+    "selecionadas": 917
+  },
+  {
+    "arquivo": "RDSC2412.parquet",
+    "status": "ok",
+    "selecionadas": 519
+  },
+  {
+    "arquivo": "RDSE2412.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDTO2412.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDAC2501.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDAL2501.parquet",
+    "status": "ok",
+    "selecionadas": 24
+  },
+  {
+    "arquivo": "RDAM2501.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDAP2501.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDBA2501.parquet",
+    "status": "ok",
+    "selecionadas": 78
+  },
+  {
+    "arquivo": "RDCE2501.parquet",
+    "status": "ok",
+    "selecionadas": 118
+  },
+  {
+    "arquivo": "RDDF2501.parquet",
+    "status": "ok",
+    "selecionadas": 94
+  },
+  {
+    "arquivo": "RDGO2501.parquet",
+    "status": "ok",
+    "selecionadas": 153
+  },
+  {
+    "arquivo": "RDMA2501.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDMG2501.parquet",
+    "status": "ok",
+    "selecionadas": 429
+  },
+  {
+    "arquivo": "RDMS2501.parquet",
+    "status": "ok",
+    "selecionadas": 57
+  },
+  {
+    "arquivo": "RDMT2501.parquet",
+    "status": "ok",
+    "selecionadas": 16
+  },
+  {
+    "arquivo": "RDPA2501.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDPB2501.parquet",
+    "status": "ok",
+    "selecionadas": 52
+  },
+  {
+    "arquivo": "RDPE2501.parquet",
+    "status": "ok",
+    "selecionadas": 107
+  },
+  {
+    "arquivo": "RDPI2501.parquet",
+    "status": "ok",
+    "selecionadas": 10
+  },
+  {
+    "arquivo": "RDPR2501.parquet",
+    "status": "ok",
+    "selecionadas": 231
+  },
+  {
+    "arquivo": "RDRJ2501.parquet",
+    "status": "ok",
+    "selecionadas": 179
+  },
+  {
+    "arquivo": "RDRN2501.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDRO2501.parquet",
+    "status": "ok",
+    "selecionadas": 23
+  },
+  {
+    "arquivo": "RDRR2501.parquet",
+    "status": "ok",
+    "selecionadas": 5
+  },
+  {
+    "arquivo": "RDRS2501.parquet",
+    "status": "ok",
+    "selecionadas": 831
+  },
+  {
+    "arquivo": "RDSC2501.parquet",
+    "status": "ok",
+    "selecionadas": 541
+  },
+  {
+    "arquivo": "RDSE2501.parquet",
+    "status": "ok",
+    "selecionadas": 11
+  },
+  {
+    "arquivo": "RDSP2501.parquet",
+    "status": "ok",
+    "selecionadas": 903
+  },
+  {
+    "arquivo": "RDTO2501.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDAC2502.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDAL2502.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDBA2502.parquet",
+    "status": "ok",
+    "selecionadas": 69
+  },
+  {
+    "arquivo": "RDCE2502.parquet",
+    "status": "ok",
+    "selecionadas": 116
+  },
+  {
+    "arquivo": "RDDF2502.parquet",
+    "status": "ok",
+    "selecionadas": 86
+  },
+  {
+    "arquivo": "RDES2502.parquet",
+    "status": "ok",
+    "selecionadas": 60
+  },
+  {
+    "arquivo": "RDGO2502.parquet",
+    "status": "ok",
+    "selecionadas": 159
+  },
+  {
+    "arquivo": "RDMA2502.parquet",
+    "status": "ok",
+    "selecionadas": 50
+  },
+  {
+    "arquivo": "RDMG2502.parquet",
+    "status": "ok",
+    "selecionadas": 470
+  },
+  {
+    "arquivo": "RDMS2502.parquet",
+    "status": "ok",
+    "selecionadas": 47
+  },
+  {
+    "arquivo": "RDMT2502.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDPA2502.parquet",
+    "status": "ok",
+    "selecionadas": 15
+  },
+  {
+    "arquivo": "RDPB2502.parquet",
+    "status": "ok",
+    "selecionadas": 40
+  },
+  {
+    "arquivo": "RDPE2502.parquet",
+    "status": "ok",
+    "selecionadas": 94
+  },
+  {
+    "arquivo": "RDPI2502.parquet",
+    "status": "ok",
+    "selecionadas": 12
+  },
+  {
+    "arquivo": "RDPR2502.parquet",
+    "status": "ok",
+    "selecionadas": 297
+  },
+  {
+    "arquivo": "RDRJ2502.parquet",
+    "status": "ok",
+    "selecionadas": 172
+  },
+  {
+    "arquivo": "RDRN2502.parquet",
+    "status": "ok",
+    "selecionadas": 30
+  },
+  {
+    "arquivo": "RDRO2502.parquet",
+    "status": "ok",
+    "selecionadas": 31
+  },
+  {
+    "arquivo": "RDRR2502.parquet",
+    "status": "ok",
+    "selecionadas": 2
+  },
+  {
+    "arquivo": "RDRS2502.parquet",
+    "status": "ok",
+    "selecionadas": 846
+  },
+  {
+    "arquivo": "RDSC2502.parquet",
+    "status": "ok",
+    "selecionadas": 569
+  },
+  {
+    "arquivo": "RDSP2502.parquet",
+    "status": "ok",
+    "selecionadas": 893
+  },
+  {
+    "arquivo": "RDTO2502.parquet",
+    "status": "ok",
+    "selecionadas": 26
+  },
+  {
+    "arquivo": "RDAL2503.parquet",
+    "status": "ok",
+    "selecionadas": 41
+  },
+  {
+    "arquivo": "RDAM2503.parquet",
+    "status": "ok",
+    "selecionadas": 5
+  },
+  {
+    "arquivo": "RDAP2503.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2503.parquet",
+    "status": "ok",
+    "selecionadas": 94
+  },
+  {
+    "arquivo": "RDCE2503.parquet",
+    "status": "ok",
+    "selecionadas": 125
+  },
+  {
+    "arquivo": "RDES2503.parquet",
+    "status": "ok",
+    "selecionadas": 65
+  },
+  {
+    "arquivo": "RDGO2503.parquet",
+    "status": "ok",
+    "selecionadas": 150
+  },
+  {
+    "arquivo": "RDMA2503.parquet",
+    "status": "ok",
+    "selecionadas": 56
+  },
+  {
+    "arquivo": "RDMG2503.parquet",
+    "status": "ok",
+    "selecionadas": 528
+  },
+  {
+    "arquivo": "RDPA2503.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDPB2503.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDPE2503.parquet",
+    "status": "ok",
+    "selecionadas": 119
+  },
+  {
+    "arquivo": "RDPI2503.parquet",
+    "status": "ok",
+    "selecionadas": 14
+  },
+  {
+    "arquivo": "RDPR2503.parquet",
+    "status": "ok",
+    "selecionadas": 279
+  },
+  {
+    "arquivo": "RDRJ2503.parquet",
+    "status": "ok",
+    "selecionadas": 178
+  },
+  {
+    "arquivo": "RDRN2503.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDRO2503.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDRR2503.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDRS2503.parquet",
+    "status": "ok",
+    "selecionadas": 939
+  },
+  {
+    "arquivo": "RDSP2503.parquet",
+    "status": "ok",
+    "selecionadas": 876
+  },
+  {
+    "arquivo": "RDTO2503.parquet",
+    "status": "ok",
+    "selecionadas": 11
+  },
+  {
+    "arquivo": "RDAC2504.parquet",
+    "status": "ok",
+    "selecionadas": 53
+  },
+  {
+    "arquivo": "RDAL2504.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDAM2504.parquet",
+    "status": "ok",
+    "selecionadas": 5
+  },
+  {
+    "arquivo": "RDAP2504.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDDF2504.parquet",
+    "status": "ok",
+    "selecionadas": 74
+  },
+  {
+    "arquivo": "RDGO2504.parquet",
+    "status": "ok",
+    "selecionadas": 166
+  },
+  {
+    "arquivo": "RDMA2504.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDMG2504.parquet",
+    "status": "ok",
+    "selecionadas": 513
+  },
+  {
+    "arquivo": "RDMS2504.parquet",
+    "status": "ok",
+    "selecionadas": 59
+  },
+  {
+    "arquivo": "RDMT2504.parquet",
+    "status": "ok",
+    "selecionadas": 43
+  },
+  {
+    "arquivo": "RDPA2504.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDPB2504.parquet",
+    "status": "ok",
+    "selecionadas": 33
+  },
+  {
+    "arquivo": "RDPI2504.parquet",
+    "status": "ok",
+    "selecionadas": 16
+  },
+  {
+    "arquivo": "RDPR2504.parquet",
+    "status": "ok",
+    "selecionadas": 272
+  },
+  {
+    "arquivo": "RDRJ2504.parquet",
+    "status": "ok",
+    "selecionadas": 173
+  },
+  {
+    "arquivo": "RDRN2504.parquet",
+    "status": "ok",
+    "selecionadas": 39
+  },
+  {
+    "arquivo": "RDRO2504.parquet",
+    "status": "ok",
+    "selecionadas": 21
+  },
+  {
+    "arquivo": "RDRR2504.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDRS2504.parquet",
+    "status": "ok",
+    "selecionadas": 922
+  },
+  {
+    "arquivo": "RDSC2504.parquet",
+    "status": "ok",
+    "selecionadas": 548
+  },
+  {
+    "arquivo": "RDSE2504.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDSP2504.parquet",
+    "status": "ok",
+    "selecionadas": 893
+  },
+  {
+    "arquivo": "RDAC2505.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDAM2505.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDAP2505.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2505.parquet",
+    "status": "ok",
+    "selecionadas": 77
+  },
+  {
+    "arquivo": "RDCE2505.parquet",
+    "status": "ok",
+    "selecionadas": 138
+  },
+  {
+    "arquivo": "RDDF2505.parquet",
+    "status": "ok",
+    "selecionadas": 87
+  },
+  {
+    "arquivo": "RDES2505.parquet",
+    "status": "ok",
+    "selecionadas": 85
+  },
+  {
+    "arquivo": "RDGO2505.parquet",
+    "status": "ok",
+    "selecionadas": 140
+  },
+  {
+    "arquivo": "RDMA2505.parquet",
+    "status": "ok",
+    "selecionadas": 40
+  },
+  {
+    "arquivo": "RDMS2505.parquet",
+    "status": "ok",
+    "selecionadas": 66
+  },
+  {
+    "arquivo": "RDMT2505.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDPA2505.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDPE2505.parquet",
+    "status": "ok",
+    "selecionadas": 124
+  },
+  {
+    "arquivo": "RDPI2505.parquet",
+    "status": "ok",
+    "selecionadas": 14
+  },
+  {
+    "arquivo": "RDPR2505.parquet",
+    "status": "ok",
+    "selecionadas": 274
+  },
+  {
+    "arquivo": "RDRJ2505.parquet",
+    "status": "ok",
+    "selecionadas": 201
+  },
+  {
+    "arquivo": "RDRN2505.parquet",
+    "status": "ok",
+    "selecionadas": 39
+  },
+  {
+    "arquivo": "RDRR2505.parquet",
+    "status": "ok",
+    "selecionadas": 3
+  },
+  {
+    "arquivo": "RDRS2505.parquet",
+    "status": "ok",
+    "selecionadas": 858
+  },
+  {
+    "arquivo": "RDSC2505.parquet",
+    "status": "ok",
+    "selecionadas": 568
+  },
+  {
+    "arquivo": "RDSE2505.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDSP2505.parquet",
+    "status": "ok",
+    "selecionadas": 870
+  },
+  {
+    "arquivo": "RDTO2505.parquet",
+    "status": "ok",
+    "selecionadas": 11
+  },
+  {
+    "arquivo": "RDAC2506.parquet",
+    "status": "ok",
+    "selecionadas": 44
+  },
+  {
+    "arquivo": "RDAP2506.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDCE2506.parquet",
+    "status": "ok",
+    "selecionadas": 144
+  },
+  {
+    "arquivo": "RDDF2506.parquet",
+    "status": "ok",
+    "selecionadas": 83
+  },
+  {
+    "arquivo": "RDES2506.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDGO2506.parquet",
+    "status": "ok",
+    "selecionadas": 143
+  },
+  {
+    "arquivo": "RDMG2506.parquet",
+    "status": "ok",
+    "selecionadas": 464
+  },
+  {
+    "arquivo": "RDMS2506.parquet",
+    "status": "ok",
+    "selecionadas": 61
+  },
+  {
+    "arquivo": "RDMT2506.parquet",
+    "status": "ok",
+    "selecionadas": 39
+  },
+  {
+    "arquivo": "RDPB2506.parquet",
+    "status": "ok",
+    "selecionadas": 48
+  },
+  {
+    "arquivo": "RDPE2506.parquet",
+    "status": "ok",
+    "selecionadas": 94
+  },
+  {
+    "arquivo": "RDPI2506.parquet",
+    "status": "ok",
+    "selecionadas": 16
+  },
+  {
+    "arquivo": "RDPR2506.parquet",
+    "status": "ok",
+    "selecionadas": 256
+  },
+  {
+    "arquivo": "RDRJ2506.parquet",
+    "status": "ok",
+    "selecionadas": 176
+  },
+  {
+    "arquivo": "RDRN2506.parquet",
+    "status": "ok",
+    "selecionadas": 26
+  },
+  {
+    "arquivo": "RDRO2506.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDRR2506.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDRS2506.parquet",
+    "status": "ok",
+    "selecionadas": 784
+  },
+  {
+    "arquivo": "RDSE2506.parquet",
+    "status": "ok",
+    "selecionadas": 16
+  },
+  {
+    "arquivo": "RDSP2506.parquet",
+    "status": "ok",
+    "selecionadas": 806
+  },
+  {
+    "arquivo": "RDAC2507.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDAM2507.parquet",
+    "status": "ok",
+    "selecionadas": 22
+  },
+  {
+    "arquivo": "RDAP2507.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDBA2507.parquet",
+    "status": "ok",
+    "selecionadas": 78
+  },
+  {
+    "arquivo": "RDCE2507.parquet",
+    "status": "ok",
+    "selecionadas": 165
+  },
+  {
+    "arquivo": "RDDF2507.parquet",
+    "status": "ok",
+    "selecionadas": 100
+  },
+  {
+    "arquivo": "RDES2507.parquet",
+    "status": "ok",
+    "selecionadas": 83
+  },
+  {
+    "arquivo": "RDGO2507.parquet",
+    "status": "ok",
+    "selecionadas": 167
+  },
+  {
+    "arquivo": "RDMA2507.parquet",
+    "status": "ok",
+    "selecionadas": 58
+  },
+  {
+    "arquivo": "RDMG2507.parquet",
+    "status": "ok",
+    "selecionadas": 502
+  },
+  {
+    "arquivo": "RDMS2507.parquet",
+    "status": "ok",
+    "selecionadas": 72
+  },
+  {
+    "arquivo": "RDMT2507.parquet",
+    "status": "ok",
+    "selecionadas": 41
+  },
+  {
+    "arquivo": "RDPA2507.parquet",
+    "status": "ok",
+    "selecionadas": 25
+  },
+  {
+    "arquivo": "RDPB2507.parquet",
+    "status": "ok",
+    "selecionadas": 32
+  },
+  {
+    "arquivo": "RDPE2507.parquet",
+    "status": "ok",
+    "selecionadas": 122
+  },
+  {
+    "arquivo": "RDPI2507.parquet",
+    "status": "ok",
+    "selecionadas": 15
+  },
+  {
+    "arquivo": "RDPR2507.parquet",
+    "status": "ok",
+    "selecionadas": 269
+  },
+  {
+    "arquivo": "RDRJ2507.parquet",
+    "status": "ok",
+    "selecionadas": 165
+  },
+  {
+    "arquivo": "RDRN2507.parquet",
+    "status": "ok",
+    "selecionadas": 27
+  },
+  {
+    "arquivo": "RDRR2507.parquet",
+    "status": "ok",
+    "selecionadas": 1
+  },
+  {
+    "arquivo": "RDSC2507.parquet",
+    "status": "ok",
+    "selecionadas": 554
+  },
+  {
+    "arquivo": "RDSE2507.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDSP2507.parquet",
+    "status": "ok",
+    "selecionadas": 854
+  },
+  {
+    "arquivo": "RDAC2508.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDAM2508.parquet",
+    "status": "ok",
+    "selecionadas": 26
+  },
+  {
+    "arquivo": "RDAP2508.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2508.parquet",
+    "status": "ok",
+    "selecionadas": 63
+  },
+  {
+    "arquivo": "RDCE2508.parquet",
+    "status": "ok",
+    "selecionadas": 151
+  },
+  {
+    "arquivo": "RDES2508.parquet",
+    "status": "ok",
+    "selecionadas": 55
+  },
+  {
+    "arquivo": "RDGO2508.parquet",
+    "status": "ok",
+    "selecionadas": 165
+  },
+  {
+    "arquivo": "RDMA2508.parquet",
+    "status": "ok",
+    "selecionadas": 41
+  },
+  {
+    "arquivo": "RDMS2508.parquet",
+    "status": "ok",
+    "selecionadas": 79
+  },
+  {
+    "arquivo": "RDMT2508.parquet",
+    "status": "ok",
+    "selecionadas": 36
+  },
+  {
+    "arquivo": "RDPE2508.parquet",
+    "status": "ok",
+    "selecionadas": 114
+  },
+  {
+    "arquivo": "RDPI2508.parquet",
+    "status": "ok",
+    "selecionadas": 10
+  },
+  {
+    "arquivo": "RDPR2508.parquet",
+    "status": "ok",
+    "selecionadas": 246
+  },
+  {
+    "arquivo": "RDRJ2508.parquet",
+    "status": "ok",
+    "selecionadas": 159
+  },
+  {
+    "arquivo": "RDRN2508.parquet",
+    "status": "ok",
+    "selecionadas": 41
+  },
+  {
+    "arquivo": "RDRS2508.parquet",
+    "status": "ok",
+    "selecionadas": 904
+  },
+  {
+    "arquivo": "RDSC2508.parquet",
+    "status": "ok",
+    "selecionadas": 604
+  },
+  {
+    "arquivo": "RDSE2508.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDSP2508.parquet",
+    "status": "ok",
+    "selecionadas": 908
+  },
+  {
+    "arquivo": "RDAC2509.parquet",
+    "status": "ok",
+    "selecionadas": 45
+  },
+  {
+    "arquivo": "RDAL2509.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDAM2509.parquet",
+    "status": "ok",
+    "selecionadas": 15
+  },
+  {
+    "arquivo": "RDAP2509.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2509.parquet",
+    "status": "ok",
+    "selecionadas": 89
+  },
+  {
+    "arquivo": "RDCE2509.parquet",
+    "status": "ok",
+    "selecionadas": 143
+  },
+  {
+    "arquivo": "RDDF2509.parquet",
+    "status": "ok",
+    "selecionadas": 110
+  },
+  {
+    "arquivo": "RDES2509.parquet",
+    "status": "ok",
+    "selecionadas": 60
+  },
+  {
+    "arquivo": "RDGO2509.parquet",
+    "status": "ok",
+    "selecionadas": 169
+  },
+  {
+    "arquivo": "RDMG2509.parquet",
+    "status": "ok",
+    "selecionadas": 585
+  },
+  {
+    "arquivo": "RDMS2509.parquet",
+    "status": "ok",
+    "selecionadas": 69
+  },
+  {
+    "arquivo": "RDPA2509.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDPB2509.parquet",
+    "status": "ok",
+    "selecionadas": 52
+  },
+  {
+    "arquivo": "RDPI2509.parquet",
+    "status": "ok",
+    "selecionadas": 11
+  },
+  {
+    "arquivo": "RDPR2509.parquet",
+    "status": "ok",
+    "selecionadas": 264
+  },
+  {
+    "arquivo": "RDRJ2509.parquet",
+    "status": "ok",
+    "selecionadas": 208
+  },
+  {
+    "arquivo": "RDRN2509.parquet",
+    "status": "ok",
+    "selecionadas": 42
+  },
+  {
+    "arquivo": "RDRR2509.parquet",
+    "status": "ok",
+    "selecionadas": 2
+  },
+  {
+    "arquivo": "RDRS2509.parquet",
+    "status": "ok",
+    "selecionadas": 986
+  },
+  {
+    "arquivo": "RDSC2509.parquet",
+    "status": "ok",
+    "selecionadas": 701
+  },
+  {
+    "arquivo": "RDSE2509.parquet",
+    "status": "ok",
+    "selecionadas": 14
+  },
+  {
+    "arquivo": "RDSP2509.parquet",
+    "status": "ok",
+    "selecionadas": 952
+  },
+  {
+    "arquivo": "RDTO2509.parquet",
+    "status": "ok",
+    "selecionadas": 18
+  },
+  {
+    "arquivo": "RDAC2510.parquet",
+    "status": "ok",
+    "selecionadas": 45
+  },
+  {
+    "arquivo": "RDAL2510.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDAM2510.parquet",
+    "status": "ok",
+    "selecionadas": 21
+  },
+  {
+    "arquivo": "RDBA2510.parquet",
+    "status": "ok",
+    "selecionadas": 84
+  },
+  {
+    "arquivo": "RDCE2510.parquet",
+    "status": "ok",
+    "selecionadas": 170
+  },
+  {
+    "arquivo": "RDDF2510.parquet",
+    "status": "ok",
+    "selecionadas": 117
+  },
+  {
+    "arquivo": "RDES2510.parquet",
+    "status": "ok",
+    "selecionadas": 63
+  },
+  {
+    "arquivo": "RDGO2510.parquet",
+    "status": "ok",
+    "selecionadas": 137
+  },
+  {
+    "arquivo": "RDMA2510.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDMS2510.parquet",
+    "status": "ok",
+    "selecionadas": 75
+  },
+  {
+    "arquivo": "RDMT2510.parquet",
+    "status": "ok",
+    "selecionadas": 35
+  },
+  {
+    "arquivo": "RDPA2510.parquet",
+    "status": "ok",
+    "selecionadas": 41
+  },
+  {
+    "arquivo": "RDPI2510.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDRJ2510.parquet",
+    "status": "ok",
+    "selecionadas": 178
+  },
+  {
+    "arquivo": "RDRN2510.parquet",
+    "status": "ok",
+    "selecionadas": 38
+  },
+  {
+    "arquivo": "RDRR2510.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDRS2510.parquet",
+    "status": "ok",
+    "selecionadas": 1068
+  },
+  {
+    "arquivo": "RDSE2510.parquet",
+    "status": "ok",
+    "selecionadas": 23
+  },
+  {
+    "arquivo": "RDSP2510.parquet",
+    "status": "ok",
+    "selecionadas": 1022
+  },
+  {
+    "arquivo": "RDAL2511.parquet",
+    "status": "ok",
+    "selecionadas": 24
+  },
+  {
+    "arquivo": "RDAP2511.parquet",
+    "status": "ok",
+    "selecionadas": 0
+  },
+  {
+    "arquivo": "RDBA2511.parquet",
+    "status": "ok",
+    "selecionadas": 69
+  },
+  {
+    "arquivo": "RDDF2511.parquet",
+    "status": "ok",
+    "selecionadas": 107
+  },
+  {
+    "arquivo": "RDES2511.parquet",
+    "status": "ok",
+    "selecionadas": 46
+  },
+  {
+    "arquivo": "RDGO2511.parquet",
+    "status": "ok",
+    "selecionadas": 169
+  },
+  {
+    "arquivo": "RDMA2511.parquet",
+    "status": "ok",
+    "selecionadas": 44
+  },
+  {
+    "arquivo": "RDMS2511.parquet",
+    "status": "ok",
+    "selecionadas": 60
+  },
+  {
+    "arquivo": "RDMT2511.parquet",
+    "status": "ok",
+    "selecionadas": 45
+  },
+  {
+    "arquivo": "RDPA2511.parquet",
+    "status": "ok",
+    "selecionadas": 39
+  },
+  {
+    "arquivo": "RDPB2511.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDPE2511.parquet",
+    "status": "ok",
+    "selecionadas": 125
+  },
+  {
+    "arquivo": "RDPI2511.parquet",
+    "status": "ok",
+    "selecionadas": 13
+  },
+  {
+    "arquivo": "RDPR2511.parquet",
+    "status": "ok",
+    "selecionadas": 334
+  },
+  {
+    "arquivo": "RDRJ2511.parquet",
+    "status": "ok",
+    "selecionadas": 211
+  },
+  {
+    "arquivo": "RDRO2511.parquet",
+    "status": "ok",
+    "selecionadas": 31
+  },
+  {
+    "arquivo": "RDRS2511.parquet",
+    "status": "ok",
+    "selecionadas": 896
+  },
+  {
+    "arquivo": "RDSC2511.parquet",
+    "status": "ok",
+    "selecionadas": 649
+  },
+  {
+    "arquivo": "RDSE2511.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDSP2511.parquet",
+    "status": "ok",
+    "selecionadas": 945
+  },
+  {
+    "arquivo": "RDTO2511.parquet",
+    "status": "ok",
+    "selecionadas": 15
+  },
+  {
+    "arquivo": "RDAL2512.parquet",
+    "status": "ok",
+    "selecionadas": 29
+  },
+  {
+    "arquivo": "RDAM2512.parquet",
+    "status": "ok",
+    "selecionadas": 10
+  },
+  {
+    "arquivo": "RDBA2512.parquet",
+    "status": "ok",
+    "selecionadas": 104
+  },
+  {
+    "arquivo": "RDCE2512.parquet",
+    "status": "ok",
+    "selecionadas": 147
+  },
+  {
+    "arquivo": "RDDF2512.parquet",
+    "status": "ok",
+    "selecionadas": 89
+  },
+  {
+    "arquivo": "RDES2512.parquet",
+    "status": "ok",
+    "selecionadas": 53
+  },
+  {
+    "arquivo": "RDMA2512.parquet",
+    "status": "ok",
+    "selecionadas": 34
+  },
+  {
+    "arquivo": "RDMG2512.parquet",
+    "status": "ok",
+    "selecionadas": 599
+  },
+  {
+    "arquivo": "RDMS2512.parquet",
+    "status": "ok",
+    "selecionadas": 51
+  },
+  {
+    "arquivo": "RDMT2512.parquet",
+    "status": "ok",
+    "selecionadas": 28
+  },
+  {
+    "arquivo": "RDPA2512.parquet",
+    "status": "ok",
+    "selecionadas": 20
+  },
+  {
+    "arquivo": "RDPB2512.parquet",
+    "status": "ok",
+    "selecionadas": 46
+  },
+  {
+    "arquivo": "RDPE2512.parquet",
+    "status": "ok",
+    "selecionadas": 139
+  },
+  {
+    "arquivo": "RDPI2512.parquet",
+    "status": "ok",
+    "selecionadas": 8
+  },
+  {
+    "arquivo": "RDPR2512.parquet",
+    "status": "ok",
+    "selecionadas": 369
+  },
+  {
+    "arquivo": "RDRJ2512.parquet",
+    "status": "ok",
+    "selecionadas": 211
+  },
+  {
+    "arquivo": "RDRN2512.parquet",
+    "status": "ok",
+    "selecionadas": 37
+  },
+  {
+    "arquivo": "RDRO2512.parquet",
+    "status": "ok",
+    "selecionadas": 43
+  },
+  {
+    "arquivo": "RDRS2512.parquet",
+    "status": "ok",
+    "selecionadas": 901
+  },
+  {
+    "arquivo": "RDSE2512.parquet",
+    "status": "ok",
+    "selecionadas": 17
+  },
+  {
+    "arquivo": "RDSP2512.parquet",
+    "status": "ok",
+    "selecionadas": 897
+  }
+]

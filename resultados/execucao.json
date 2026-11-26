@@ -1,0 +1,28 @@
+{
+  "data_utc": "2026-11-26T21:57:56.492577+00:00",
+  "selecionados": 118173,
+  "analisados": 108151,
+  "esperados": 972,
+  "obtidos": 764,
+  "k": 3,
+  "silhouette": 0.37150033464174237,
+  "davies_bouldin": 1.061270711539075,
+  "ari_medio": 0.9972149402792244,
+  "ari_minimo": 0.9956261245496916,
+  "correlacao_dias_valor": 0.5916204576896322,
+  "pacotes": {
+    "pysus": "2.11.7",
+    "pandas": "2.3.3",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.8.0",
+    "mlxtend": "0.25.0"
+  },
+  "cobertura": "parcial",
+  "ari_sem_pagamento": 0.3088985770767106,
+  "amostra_silhouette": 10000,
+  "episodios_com_continuacao": 5821,
+  "continuacoes_consolidadas": 8376,
+  "pagamentos_zero": 20944,
+  "regras_completas": 45,
+  "regras_selecionadas": 9
+}
